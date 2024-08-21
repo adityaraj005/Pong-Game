@@ -20,12 +20,12 @@ This project is a classic Pong game developed using Python's Turtle module. The 
    git clone https://github.com/adityaraj005/Pong-Game.git
    ```
    
-## Navigate to the Project Directory:
+2. **Navigate to the Project Directory**:
    ```bash
    cd Pong-Game
    ```
 
-## Run the Game:
+3. **Run the Game**:
    ```bash
    python main.py
    ```
