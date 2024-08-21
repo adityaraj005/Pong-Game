@@ -21,17 +21,21 @@ This project is a classic Pong game developed using Python's Turtle module. The 
    ```
    
 ## Navigate to the Project Directory:
+   ```bash
    cd Pong-Game
+   ```
 
 ## Run the Game:
+   ```bash
    python main.py
+   ```
 
 ## Code Structure
-  main.py: The main game logic.
-  paddle.py: Contains the Paddle1 and Paddle2 classes for paddle movement.
-  ball.py: Contains the Ball class for ball movement and collision detection.
-  dash.py: Contains the Dash class for drawing the dashed line in the middle.
-  scoreboard.py: Contains the Scoreboard class for keeping track of the score.
+  - **main.py**: The main game logic.
+  - **paddle.py**: Contains the Paddle1 and Paddle2 classes for paddle movement.
+  - **ball.py**: Contains the Ball class for ball movement and collision detection.
+  - **dash.py**: Contains the Dash class for drawing the dashed line in the middle.
+  - **scoreboard.py**: Contains the Scoreboard class for keeping track of the score.
   
 ## Key Learnings
   - **Game Development**: Learned to develop a classic game using Python’s Turtle module.
