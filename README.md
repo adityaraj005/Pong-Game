@@ -34,6 +34,6 @@ This project is a classic Pong game developed using Python's Turtle module. The 
   scoreboard.py: Contains the Scoreboard class for keeping track of the score.
   
 ## Key Learnings
-  **Game Development**: Learned to develop a classic game using Python’s Turtle module.
-  **Collision Detection**: Implemented collision detection for game elements.
-  **Modular Code Structure**: Organized code into separate classes for better maintainability and reusability.
+  -**Game Development**: Learned to develop a classic game using Python’s Turtle module.
+  -**Collision Detection**: Implemented collision detection for game elements.
+  -**Modular Code Structure**: Organized code into separate classes for better maintainability and reusability.
